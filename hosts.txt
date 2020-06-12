@@ -1,0 +1,42 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+weakspell.com##.shadow.content-box.aside
+||pagead2.googlesyndication.com/pagead/*$script,domain=weakspell.com
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+weakspell.com##aside#custom_html-17.widget_text.widget.widget_custom_html > div.textwidget.custom-html-widget > ins.adsbygoogle
+weakspell.com##div#primary.content-area > div.ads-placment
+weakspell.com##div#primary.content-area > div.ads-placment > div.adsbyvli
+weakspell.com##div#main.site-main > div.ads-placment
+weakspell.com##div#main.site-main > div.ads-placment > ins.adsbygoogle
+weakspell.com##div#content.site-content.mb25 > div.entry-content > div.ads-placment
+weakspell.com##div#content.site-content.mb25 > div.entry-content > div.ads-placment > ins.adsbygoogle
+weakspell.com##div#content.site-content.mb25 > div.entry-content > div.content_single.content-box.shadow > div.ads-placment
+weakspell.com##div#content.site-content.mb25 > div.entry-content > div.content_single.content-box.shadow > div.ads-placment > div.ads1
+weakspell.com##div#content.site-content.mb25 > div.entry-content > div.content_single.content-box.shadow > div.ads-placment > div.ads2
+weakspell.com##div#content.site-content.mb25 > div.entry-content > div.ads-placment
+weakspell.com##aside#custom_html-17.widget_text.widget.widget_custom_html > div.textwidget.custom-html-widget > ins.adsbygoogle
+weakspell.com##div#primary.content-area > div.ads-placment
+weakspell.com##div#primary.content-area > div.ads-placment > div.adsbyvli
+weakspell.com##.ads-placment
+weakspell.com##.adsbygoogle
+weakspell.com##.adsbyvli
+weakspell.com##.full
+weakspell.com##.ad-close-sp
+weakspell.com##[class^="ad"]
+weakspell.com##.[class^="ad"]
+weakspell.com##[class^="ads"]
+weakspell.com##.[class^="ads"]
+weakspell.com##[class^="ad"]
+weakspell.com##.[class^="ad"]
+weakspell.com##[class^="ads-placment"]
+weakspell.com##.[class^="ads-placment"]
+weakspell.com##[class^="ad-close-sp"]
+weakspell.com##.[class^="ad-close-sp"]
+weakspell.com##[class^="adsbyvli"]
+weakspell.com##.[class^="adsbyvli"]
+extravagantinwardness.club
