@@ -40,3 +40,5 @@ weakspell.com##.[class^="ad-close-sp"]
 weakspell.com##[class^="adsbyvli"]
 weakspell.com##.[class^="adsbyvli"]
 extravagantinwardness.club
+beap.gemini.yahoo.com/*
+*gemini.yahoo.com/*
