@@ -42,3 +42,6 @@ weakspell.com##.[class^="adsbyvli"]
 extravagantinwardness.club
 beap.gemini.yahoo.com/*
 *gemini.yahoo.com/*
+bfst.to##.modal-content
+bfst.to###webmodal2
+bfst.to##.in.modal-backdrop
