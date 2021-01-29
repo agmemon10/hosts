@@ -45,3 +45,6 @@ beap.gemini.yahoo.com/*
 bfst.to##.modal-content
 bfst.to###webmodal2
 bfst.to##.in.modal-backdrop
+www.streameast.live###container-cbc7f3c3a0220afd30333f28f0d0213f22029
+liveonscore.tv##.widget-area.content-sidebar
+6stream.xyz###secondary
